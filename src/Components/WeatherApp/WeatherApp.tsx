@@ -67,11 +67,6 @@ export const WeatherApp = () => {
             setWicon(clear_icon);
         }
 
-        
-
-
-
-
     } 
 
   return (
